@@ -1,0 +1,22 @@
+{
+    "name": "Delivery Route",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/DELIVER/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 309,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DeliveryRoute"
+        }
+    }
+}

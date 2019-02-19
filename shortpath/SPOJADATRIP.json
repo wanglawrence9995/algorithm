@@ -1,0 +1,22 @@
+{
+    "name": "Ada and Trip",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/ADATRIP/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 5500,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "AdaAndTrip"
+        }
+    }
+}

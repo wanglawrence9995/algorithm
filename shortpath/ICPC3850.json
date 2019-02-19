@@ -1,0 +1,27 @@
+{
+    "name": "3850 - Here We Go(relians) Again",
+    "group": "ICPC Live Archive",
+    "url": "https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1851",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "2 2\n9 * 9 *\n6 v 0 * 8 v\n3 * 7 *\n3 * 6 v 3 *\n4 * 8 *\n2 2\n9 * 9 *\n6 v 9 * 8 v\n3 * 7 *\n3 * 6 v 3 *\n4 * 8 *\n2 2\n9 * 9 *\n6 ^ 0 * 8 ^\n3 * 7 *\n3 * 6 ^ 3 *\n4 * 8 *\n0 0\n",
+            "output": "1715 blips\n1295 blips\nHoliday\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "HereWeGoreliansAgain"
+        }
+    }
+}

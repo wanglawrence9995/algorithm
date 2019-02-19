@@ -1,0 +1,27 @@
+{
+    "name": "2819 - Cave Raider",
+    "group": "ICPC Live Archive",
+    "url": "https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=820",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "2 2 1 2\n1 2 5 4 10 14 20 24 30\n1 2 6 2 10 22 30\n6 9 1 6\n1 2 6 5 10\n1 3 7 8 20 30 40\n2 4 8 5 13 21 30\n3 5 10 16 25 34 45\n2 5 9 22 32 40 50\n3 4 15 2 8 24 34\n4 6 10 32 45 56 65\n5 6 3 2 5 10 15\n2 3 5 2 9 19 25\n2 2 1 2\n1 2 7 6 9 12\n1 2 9 8 12 19\n0\n",
+            "output": "16\n55\n*\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CaveRaider"
+        }
+    }
+}
