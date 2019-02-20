@@ -1,0 +1,31 @@
+{
+    "name": "C. Deletion of Repeats",
+    "group": "Codeforces Beta Round #19",
+    "url": "http://codeforces.com/contest/19/problem/C",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "6\n1 2 3 1 2 3\n",
+            "output": "3\n1 2 3 \n"
+        },
+        {
+            "input": "7\n4 5 6 5 6 7 7\n",
+            "output": "1\n7 \n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CDeletionOfRepeats"
+        }
+    }
+}

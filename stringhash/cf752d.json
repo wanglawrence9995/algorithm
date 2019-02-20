@@ -1,0 +1,35 @@
+{
+    "name": "D. Santa Claus and a Palindrome",
+    "group": "Codeforces Round #389 (Div. 2, Rated, Based on Technocup 2017 - Elimination Round 3)",
+    "url": "http://codeforces.com/contest/752/problem/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "7 3\nabb 2\naaa -3\nbba -1\nzyz -4\nabb 5\naaa 7\nxyx 4\n",
+            "output": "12\n"
+        },
+        {
+            "input": "3 1\na 1\na 2\na 3\n",
+            "output": "6\n"
+        },
+        {
+            "input": "2 5\nabcde 10000\nabcde 10000\n",
+            "output": "0\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DSantaClausAndAPalindrome"
+        }
+    }
+}

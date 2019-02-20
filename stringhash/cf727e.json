@@ -1,0 +1,31 @@
+{
+    "name": "E. Games on a CD",
+    "group": "Technocup 2017 - Elimination Round 1 (Unofficially Open for Everyone, Rated for Div. 2)",
+    "url": "http://codeforces.com/contest/727/problem/E",
+    "interactive": false,
+    "memoryLimit": 512,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "3 1\nabc\n4\nb\na\nc\nd\n",
+            "output": "YES\n2 1 3 \n"
+        },
+        {
+            "input": "4 2\naabbccdd\n4\ndd\nab\nbc\ncd\n",
+            "output": "NO\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "EGamesOnACD"
+        }
+    }
+}

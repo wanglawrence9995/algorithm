@@ -1,0 +1,31 @@
+{
+    "name": "D. Palindromic characteristics",
+    "group": "Codeforces Round #427 (Div. 2)",
+    "url": "http://codeforces.com/contest/835/problem/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "abba\n",
+            "output": "6 1 0 0 \n"
+        },
+        {
+            "input": "abacaba\n",
+            "output": "12 4 1 0 0 0 0 \n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DPalindromicCharacteristics"
+        }
+    }
+}

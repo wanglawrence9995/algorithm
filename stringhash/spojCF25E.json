@@ -1,0 +1,27 @@
+{
+    "name": "Test",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/CF25E/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1089,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "411\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Test"
+        }
+    }
+}

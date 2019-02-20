@@ -1,0 +1,31 @@
+{
+    "name": "D. Palindrome Degree",
+    "group": "Codeforces Beta Round #7",
+    "url": "http://codeforces.com/contest/7/problem/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "a2A\n",
+            "output": "1\n"
+        },
+        {
+            "input": "abacaba\n",
+            "output": "6\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DPalindromeDegree"
+        }
+    }
+}

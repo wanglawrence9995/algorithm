@@ -1,0 +1,35 @@
+{
+    "name": "G. Anthem of Berland",
+    "group": "Educational Codeforces Round 21",
+    "url": "http://codeforces.com/contest/808/problem/G",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "winlose???winl???w??\nwin\n",
+            "output": "5\n"
+        },
+        {
+            "input": "glo?yto?e??an?\nor\n",
+            "output": "3\n"
+        },
+        {
+            "input": "??c?????\nabcab\n",
+            "output": "2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GAnthemOfBerland"
+        }
+    }
+}

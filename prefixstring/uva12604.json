@@ -1,0 +1,27 @@
+{
+    "name": "12604 - Caesar Cipher",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4282",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "4\nABC\nABC\nABCBBBABC\nABC\nABC\nABCBCAABC\nD7a\nD7a\nD7aaD77aDD7a\nABC\nABC\nABC\n",
+            "output": "no solution\nunique: 1\nambiguous: 1 2\nunique: 0\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CaesarCipher"
+        }
+    }
+}

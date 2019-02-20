@@ -1,0 +1,31 @@
+{
+    "name": "B. Password",
+    "group": "Codeforces Beta Round #93 (Div. 1 Only)",
+    "url": "http://codeforces.com/problemset/problem/126/B",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "fixprefixsuffix\n",
+            "output": "fix\n"
+        },
+        {
+            "input": "abcdabc\n",
+            "output": "Just a legend\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BPassword"
+        }
+    }
+}

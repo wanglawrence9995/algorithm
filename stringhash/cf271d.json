@@ -1,0 +1,31 @@
+{
+    "name": "D. Good Substrings",
+    "group": "Codeforces Round #166 (Div. 2)",
+    "url": "http://codeforces.com/problemset/problem/271/D",
+    "interactive": false,
+    "memoryLimit": 512,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "ababab\n01000000000000000000000000\n1\n",
+            "output": "5\n"
+        },
+        {
+            "input": "acbacbacaa\n00000000000000000000000000\n2\n",
+            "output": "8\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DGoodSubstrings"
+        }
+    }
+}

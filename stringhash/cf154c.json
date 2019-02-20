@@ -1,0 +1,35 @@
+{
+    "name": "C. Double Profiles",
+    "group": "Codeforces Round #109 (Div. 1)",
+    "url": "http://codeforces.com/problemset/problem/154/C",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "3 3\n1 2\n2 3\n1 3\n",
+            "output": "3\n"
+        },
+        {
+            "input": "3 0\n",
+            "output": "3\n"
+        },
+        {
+            "input": "4 1\n1 3\n",
+            "output": "2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CDoubleProfiles"
+        }
+    }
+}

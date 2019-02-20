@@ -1,0 +1,1 @@
+https://cp-algorithms.com/string/prefix-function.html#toc-tgt-13

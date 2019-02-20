@@ -1,0 +1,27 @@
+{
+    "name": "The Gift Of Raksha Bandhan",
+    "group": "CodeChef - Practice(Extcontest)",
+    "url": "https://www.codechef.com/problems/INSQ15_A",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "abababa\n4\n1\n2\n3\n6\n",
+            "output": "0\n2\n0\n1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TheGiftOfRakshaBandhan"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Ada and Spring Cleaning",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/ADACLEAN/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1000,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "AdaAndSpringCleaning"
+        }
+    }
+}
