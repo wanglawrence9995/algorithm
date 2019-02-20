@@ -1,0 +1,31 @@
+{
+    "name": "D. Prefixes and Suffixes",
+    "group": "Codeforces Round #246 (Div. 2)",
+    "url": "http://codeforces.com/problemset/problem/432/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "ABACABA\n",
+            "output": "3\n1 4\n3 2\n7 1\n"
+        },
+        {
+            "input": "AAA\n",
+            "output": "3\n1 3\n2 2\n3 1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DPrefixesAndSuffixes"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Greedy Walking",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/UCV2013E/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "22 15 540 0 0 01 2 3 451 2 3 4 58 5 6 4 850 0 0 0 0100 100 100 100 1000\n",
+            "output": "351260019219200257055440\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GreedyWalking"
+        }
+    }
+}

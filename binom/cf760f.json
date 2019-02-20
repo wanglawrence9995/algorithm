@@ -1,0 +1,39 @@
+{
+    "name": "F. Bacterial Melee",
+    "group": "Codeforces Round #393 (Div. 2) (8VC Venture Cup 2017 - Final Round Div. 2 Edition)",
+    "url": "http://codeforces.com/contest/760/problem/F",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "3\naaa\n",
+            "output": "1\n"
+        },
+        {
+            "input": "2\nab\n",
+            "output": "3\n"
+        },
+        {
+            "input": "4\nbabb\n",
+            "output": "11\n"
+        },
+        {
+            "input": "7\nabacaba\n",
+            "output": "589\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "FBacterialMelee"
+        }
+    }
+}

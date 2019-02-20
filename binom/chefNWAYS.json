@@ -1,0 +1,27 @@
+{
+    "name": "Number of Ways ",
+    "group": "CodeChef - May Lunchtime 2015",
+    "url": "https://www.codechef.com/LTIME24/problems/NWAYS/",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "2\n2 2\n4 5\n",
+            "output": "8\n236\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "NumberOfWays"
+        }
+    }
+}

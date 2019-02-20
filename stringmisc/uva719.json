@@ -1,0 +1,27 @@
+{
+    "name": "719 - Glass Beads",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=660",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "4\nhelloworld\namandamanda\ndontcallmebfu\naaabaaa\n",
+            "output": "10\n11\n6\n5\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GlassBeads"
+        }
+    }
+}
