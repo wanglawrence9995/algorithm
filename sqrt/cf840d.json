@@ -1,0 +1,31 @@
+{
+    "name": "D. Destiny",
+    "group": "Codeforces Round #429 (Div. 1)",
+    "url": "http://codeforces.com/contest/840/problem/D",
+    "interactive": false,
+    "memoryLimit": 512,
+    "timeLimit": 2500,
+    "tests": [
+        {
+            "input": "4 2\n1 1 2 2\n1 3 2\n1 4 2\n",
+            "output": "1\n-1\n"
+        },
+        {
+            "input": "5 3\n1 2 1 3 2\n2 5 3\n1 2 3\n5 5 2\n",
+            "output": "2\n1\n2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DDestiny"
+        }
+    }
+}

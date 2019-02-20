@@ -1,0 +1,1 @@
+https://cp-algorithms.com/data_structures/sqrt_decomposition.html#toc-tgt-8

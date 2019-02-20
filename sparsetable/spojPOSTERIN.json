@@ -1,0 +1,27 @@
+{
+    "name": "Postering",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/POSTERIN/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "5\n1 2\n1 3\n2 2\n2 5\n1 4\n",
+            "output": "4\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Postering"
+        }
+    }
+}

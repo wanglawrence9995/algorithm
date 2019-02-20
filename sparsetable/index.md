@@ -1,0 +1,1 @@
+https://cp-algorithms.com/data_structures/sparse-table.html#toc-tgt-5

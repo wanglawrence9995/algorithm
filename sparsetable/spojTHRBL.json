@@ -1,0 +1,27 @@
+{
+    "name": "Catapult that ball",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/THRBL/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 156,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CatapultThatBall"
+        }
+    }
+}

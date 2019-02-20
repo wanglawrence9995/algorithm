@@ -1,0 +1,27 @@
+{
+    "name": "Range Minimum Query",
+    "group": "SPOJ - Tutorial",
+    "url": "https://www.spoj.com/problems/RMQSQ/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "31 4 121 11 2\n",
+            "output": "41\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "RangeMinimumQuery"
+        }
+    }
+}

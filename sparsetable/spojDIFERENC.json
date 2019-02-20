@@ -1,0 +1,22 @@
+{
+    "name": "DIFERENCIJA",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/DIFERENC/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 254,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DIFERENCIJA"
+        }
+    }
+}

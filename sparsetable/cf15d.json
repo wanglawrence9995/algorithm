@@ -1,0 +1,31 @@
+{
+    "name": "D. Map",
+    "group": "Codeforces Beta Round #15",
+    "url": "http://codeforces.com/contest/15/problem/D",
+    "interactive": false,
+    "memoryLimit": 128,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "2 2 1 2\n1 2\n3 5\n",
+            "output": "2\n1 1 1\n2 1 2\n"
+        },
+        {
+            "input": "4 4 2 2\n1 5 3 4\n2 7 6 1\n1 1 2 2\n2 2 1 2\n",
+            "output": "3\n3 1 2\n3 3 3\n1 2 9\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DMap"
+        }
+    }
+}

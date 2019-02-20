@@ -1,0 +1,27 @@
+{
+    "name": "12003 - Array Transformer",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3154",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 5000,
+    "tests": [
+        {
+            "input": "10 1 11\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n2 8 6 10\n",
+            "output": "1\n2\n3\n4\n5\n6\n7\n8\n9\n6\nExplanation:\nThere is only one instruction:\nL\n= 2,\nR\n= 8,\nv\n= 6,\np\n= 10. There are 4 numbers\n(2,3,4,5) less than 6, so\nk\n= 4. The new number in\nA\n[10] is 11\n\u0003\n4\n=\n(8\n\u0000\n2 + 1) = 44\n=\n7 = 6.\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ArrayTransformer"
+        }
+    }
+}

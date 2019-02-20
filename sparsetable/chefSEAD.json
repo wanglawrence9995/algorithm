@@ -1,0 +1,22 @@
+{
+    "name": "Sereja and D",
+    "group": "CodeChef - Practice(Medium)",
+    "url": "https://www.codechef.com/problems/SEAD",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "SerejaAndD"
+        }
+    }
+}
