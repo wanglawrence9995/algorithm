@@ -1,0 +1,27 @@
+{
+    "name": "Line up",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/KOILINE/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 703,
+    "tests": [
+        {
+            "input": "121201671631721451341821551671201191560 1 0 0 3 2 6 7 4 6 9 4\n",
+            "output": "134167120119156120167182155163172145\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "LineUp"
+        }
+    }
+}

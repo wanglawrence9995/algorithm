@@ -1,0 +1,27 @@
+{
+    "name": "Ghost Town",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/COUNT1IT/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 500,
+    "tests": [
+        {
+            "input": "10 207 35 44 25 15 10 21 42 12 33 1 61 392 472 961 292 403 273 51 221 443 321 283 22 393 232 311 131 503 382 26\n",
+            "output": "111210invalid15invalid712invalid8invalid8\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GhostTown"
+        }
+    }
+}

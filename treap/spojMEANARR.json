@@ -1,0 +1,27 @@
+{
+    "name": "Mean of array",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/MEANARR/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "5 45 2 4 5 1\n",
+            "output": "5\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "MeanOfArray"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Twist and whirl",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/TWIST/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 460,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TwistAndWhirl"
+        }
+    }
+}
