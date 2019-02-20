@@ -1,0 +1,27 @@
+{
+    "name": "F3. Lightsabers (hard)",
+    "group": "Helvetic Coding Contest 2018 online mirror (teams allowed, unrated)",
+    "url": "http://codeforces.com/problemset/problem/958/F3",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "4 3 2\n1 2 3 2\n",
+            "output": "4\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "F3LightsabersHard"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "12924 - Immortal Rabbits",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4803",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 10000,
+    "tests": [
+        {
+            "input": "1\n100 100 50\n",
+            "output": "2036501107400\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ImmortalRabbits"
+        }
+    }
+}

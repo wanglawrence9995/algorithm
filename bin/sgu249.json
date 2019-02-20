@@ -1,0 +1,22 @@
+{
+    "name": "249. Matrix",
+    "group": "Codeforces - acm.sgu.ru archive",
+    "url": "http://codeforces.com/problemsets/acmsguru/problem/99999/249",
+    "interactive": false,
+    "memoryLimit": 65,
+    "timeLimit": 500,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Matrix"
+        }
+    }
+}

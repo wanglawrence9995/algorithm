@@ -1,0 +1,27 @@
+{
+    "name": "D. Power Tower",
+    "group": "Codeforces Round #454 (Div. 1, based on Technocup 2018 Elimination Round 4)",
+    "url": "http://codeforces.com/problemset/problem/906/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 4500,
+    "tests": [
+        {
+            "input": "6 1000000000\n1 2 2 3 3 3\n8\n1 1\n1 6\n2 2\n2 3\n2 4\n4 4\n4 5\n4 6\n",
+            "output": "1\n1\n2\n4\n256\n3\n27\n597484987\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DPowerTower"
+        }
+    }
+}

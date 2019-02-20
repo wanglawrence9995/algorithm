@@ -1,0 +1,27 @@
+{
+    "name": "Just Add It",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/ZSUM/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 180,
+    "tests": [
+        {
+            "input": "10 3\n9 31\n83 17\n5 2\n0 0\n",
+            "output": "4835897\n2118762\n2285275\n3694\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "JustAddIt"
+        }
+    }
+}

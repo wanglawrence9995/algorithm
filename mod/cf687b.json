@@ -1,0 +1,31 @@
+{
+    "name": "B. Remainders Game",
+    "group": "Codeforces Round #360 (Div. 1)",
+    "url": "http://codeforces.com/problemset/problem/687/B",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "4 5\n2 3 5 12\n",
+            "output": "Yes\n"
+        },
+        {
+            "input": "2 7\n2 3\n",
+            "output": "No\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BRemaindersGame"
+        }
+    }
+}

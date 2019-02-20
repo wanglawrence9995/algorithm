@@ -1,0 +1,27 @@
+{
+    "name": "Divisor Summation (Hard)",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/DIVSUM2/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 18170,
+    "tests": [
+        {
+            "input": "3\n2\n10\n20\n",
+            "output": "1\n8\n22\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DivisorSummationHard"
+        }
+    }
+}

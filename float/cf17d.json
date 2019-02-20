@@ -1,0 +1,31 @@
+{
+    "name": "D. Notepad",
+    "group": "Codeforces Beta Round #17",
+    "url": "http://codeforces.com/contest/17/problem/D",
+    "interactive": false,
+    "memoryLimit": 64,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "2 3 3\n",
+            "output": "1\n"
+        },
+        {
+            "input": "2 3 4\n",
+            "output": "4\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DNotepad"
+        }
+    }
+}

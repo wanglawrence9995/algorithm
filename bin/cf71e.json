@@ -1,0 +1,35 @@
+{
+    "name": "E. Nuclear Fusion",
+    "group": "Codeforces Beta Round #65 (Div. 2)",
+    "url": "http://codeforces.com/problemset/problem/71/E",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1500,
+    "tests": [
+        {
+            "input": "10 3\nMn Co Li Mg C P F Zn Sc K\nSn Pt Y\n",
+            "output": "YES\nMn+C+K-&gt;Sn\nCo+Zn+Sc-&gt;Pt\nLi+Mg+P+F-&gt;Y\n"
+        },
+        {
+            "input": "2 1\nH H\nHe\n",
+            "output": "YES\nH+H-&gt;He\n"
+        },
+        {
+            "input": "2 2\nBk Fm\nCf Es\n",
+            "output": "NO\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ENuclearFusion"
+        }
+    }
+}

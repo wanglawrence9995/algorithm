@@ -1,0 +1,27 @@
+{
+    "name": "10083 - Division",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1024",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "2 9 3\n2 3 2\n21 42 7\n123 911 1\n",
+            "output": "(2^9-1)/(2^3-1) 73\n(2^3-1)/(2^2-1) is not an integer with less than 100 digits.\n(21^42-1)/(21^7-1) 18952884496956715554550978627384117011154680106\n(123^911-1)/(123^1-1) is not an integer with less than 100 digits.\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Division"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Euler Totient Function",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/ETF/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 161,
+    "tests": [
+        {
+            "input": "5\n1\n2\n3\n4\n5\n",
+            "output": "1\n1\n2\n2\n4\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "EulerTotientFunction"
+        }
+    }
+}

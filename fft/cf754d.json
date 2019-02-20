@@ -1,0 +1,35 @@
+{
+    "name": "E. Dasha and cyclic table",
+    "group": "Codeforces Round #390 (Div. 2)",
+    "url": "http://codeforces.com/contest/754/problem/E",
+    "interactive": false,
+    "memoryLimit": 512,
+    "timeLimit": 6000,
+    "tests": [
+        {
+            "input": "5 7\nqcezchs\nhhedywq\nwikywqy\nqckrqzt\nbqexcxz\n3 2\n??\nyw\n?q\n",
+            "output": "0000100\n0001001\n0000000\n0000000\n0000000\n"
+        },
+        {
+            "input": "10 10\nfwtoayylhw\nyyaryyjawr\nywrdzwhscy\nhnsyyxiphn\nbnjwzyyjvo\nkkjgseenwn\ngvmiflpcsy\nlxvkwrobwu\nwyybbcocyy\nyysijsvqry\n2 2\n??\nyy\n",
+            "output": "1000100000\n0000000001\n0001000000\n0000010000\n0000000000\n0000000000\n0000000000\n0100000010\n1000000001\n0000010000\n"
+        },
+        {
+            "input": "8 6\nibrgxl\nxqdcsg\nokbcgi\ntvpetc\nxgxxig\nigghzo\nlmlaza\ngpswzv\n1 4\ngx??\n",
+            "output": "000100\n000001\n000000\n000000\n010001\n000000\n000000\n000000\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "EDashaAndCyclicTable"
+        }
+    }
+}

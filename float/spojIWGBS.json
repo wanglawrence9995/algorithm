@@ -1,0 +1,27 @@
+{
+    "name": "0110SS",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/IWGBS/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 3085,
+    "tests": [
+        {
+            "input": "2\n",
+            "output": "3\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "SS"
+        }
+    }
+}

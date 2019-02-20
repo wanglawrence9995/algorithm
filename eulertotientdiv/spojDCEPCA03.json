@@ -1,0 +1,27 @@
+{
+    "name": "Totient Extreme",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/DCEPCA03/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 334,
+    "tests": [
+        {
+            "input": "2\n3\n10\n",
+            "output": "16\n1024\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TotientExtreme"
+        }
+    }
+}

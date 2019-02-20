@@ -1,0 +1,27 @@
+{
+    "name": "GCD and LCM",
+    "group": "CodeChef - Practice(Beginner)",
+    "url": "https://www.codechef.com/problems/FLOW016",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "3 \n120 140\n10213 312\n10 30\n",
+            "output": "20 840\n1 3186456\n10 30\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GCDAndLCM"
+        }
+    }
+}

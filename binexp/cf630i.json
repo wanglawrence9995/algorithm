@@ -1,0 +1,27 @@
+{
+    "name": "I. Parking Lot",
+    "group": "Experimental Educational Round: VolBIT Formulas Blitz",
+    "url": "http://codeforces.com/problemset/problem/630/I",
+    "interactive": false,
+    "memoryLimit": 64,
+    "timeLimit": 500,
+    "tests": [
+        {
+            "input": "3\n",
+            "output": "24\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "IParkingLot"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Euclids algorithm revisited ",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/MAIN74/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 939,
+    "tests": [
+        {
+            "input": "1\n1\n",
+            "output": "2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "EuclidsAlgorithmRevisited"
+        }
+    }
+}

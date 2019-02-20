@@ -1,0 +1,22 @@
+{
+    "name": "Number of Sequences",
+    "group": "HackerRank",
+    "url": "https://www.hackerrank.com/contests/w22/challenges/number-of-sequences",
+    "interactive": false,
+    "memoryLimit": 512,
+    "timeLimit": 4000,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "NumberOfSequences"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Number of common divisors",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/COMDIV/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 600,
+    "tests": [
+        {
+            "input": "3100000 10000012 24747794 238336\n",
+            "output": "3662\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "NumberOfCommonDivisors"
+        }
+    }
+}

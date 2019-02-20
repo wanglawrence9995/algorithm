@@ -1,0 +1,27 @@
+{
+    "name": "GCD2",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/GCD2/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 250,
+    "tests": [
+        {
+            "input": "2\n2 6\n10 11\n",
+            "output": "2\n1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GCD2"
+        }
+    }
+}

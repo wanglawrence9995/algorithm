@@ -1,0 +1,27 @@
+{
+    "name": "11327 - Enumerating Rational Numbers",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2302",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "1\n2\n3\n12158598919\n0\n",
+            "output": "0/1\n1/1\n1/2\n199999/200000\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "EnumeratingRationalNumbers"
+        }
+    }
+}

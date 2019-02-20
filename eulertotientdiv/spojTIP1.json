@@ -1,0 +1,27 @@
+{
+    "name": "Totient in permutation (easy)",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/TIP1/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1399,
+    "tests": [
+        {
+            "input": "3\n22\n222\n2222\n\nOutput:\n21\n63\n291\n",
+            "output": "1 < T < 10^5\n1 < M < 10^7\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TotientInPermutationEasy"
+        }
+    }
+}

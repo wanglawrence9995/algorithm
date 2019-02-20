@@ -1,0 +1,31 @@
+{
+    "name": "A. Noldbach problem",
+    "group": "Codeforces Beta Round #17",
+    "url": "https://codeforces.com/problemset/problem/17/A",
+    "interactive": false,
+    "memoryLimit": 64,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "27 2\n",
+            "output": "YES\n"
+        },
+        {
+            "input": "45 7\n",
+            "output": "NO\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ANoldbachProblem"
+        }
+    }
+}

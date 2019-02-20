@@ -1,0 +1,27 @@
+{
+    "name": "Project Euler #134: Prime pair connection",
+    "group": "HackerRank",
+    "url": "https://www.hackerrank.com/contests/projecteuler/challenges/euler134",
+    "interactive": false,
+    "memoryLimit": 512,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "1\n5 20\n",
+            "output": "4272\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ProjectEuler134PrimePairConnection"
+        }
+    }
+}

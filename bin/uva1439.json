@@ -1,0 +1,27 @@
+{
+    "name": "1439 - Exclusive Access 2",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4185",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "2\nP Q\nR S\n6\nP Q\nQ R\nR S\nS T\nT U\nU P\n4\nP Q\nP Q\nP Q\nP Q\n3\nP Q\nQ R\nR P\n6\nP Q\nQ S\nS R\nR P\nP S\nR Q\n",
+            "output": "0\nP Q\nR S\n0\nP Q\nR Q\nR S\nT S\nT U\nP U\n0\nP Q\nP Q\nP Q\nP Q\n1\nP Q\nQ R\nP R\n2\nP Q\nQ S\nR S\nP R\nP S\nR Q\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ExclusiveAccess2"
+        }
+    }
+}

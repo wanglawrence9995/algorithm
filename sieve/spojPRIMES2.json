@@ -1,0 +1,27 @@
+{
+    "name": "Printing some primes (Hard)",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/PRIMES2/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 2281,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "2\n3581\n7927\n...\n999978527\n999988747\n999999151\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "PrintingSomePrimesHard"
+        }
+    }
+}

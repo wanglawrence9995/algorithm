@@ -1,0 +1,27 @@
+{
+    "name": "3722 - Jewel-eating Monsters",
+    "group": "ICPC Live Archive",
+    "url": "https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1723",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "52 7 1 691\n27 4 56 379\n94 7 63 103\n38 2 88 557\n62 11 86 433\n0 0 0 0\n",
+            "output": "357\n198\n82\n177\n394\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "JewelEatingMonsters"
+        }
+    }
+}

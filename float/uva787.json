@@ -1,0 +1,27 @@
+{
+    "name": "787 - Maximum Sub-sequence Product",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=728",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "1 2 3 -999999\n-5 -2 2 -30 -999999\n-8 -999999\n-1 0 -2 -999999\n",
+            "output": "6\n120\n-8\n0\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "MaximumSubSequenceProduct"
+        }
+    }
+}

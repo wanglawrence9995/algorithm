@@ -1,0 +1,31 @@
+{
+    "name": "B. Sherlock and his girlfriend",
+    "group": "ICM Technex 2017 and Codeforces Round #400 (Div. 1 + Div. 2, combined)",
+    "url": "http://codeforces.com/contest/776/problem/B",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "3\n",
+            "output": "2\n1 1 2 \n"
+        },
+        {
+            "input": "4\n",
+            "output": "2\n2 1 1 2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BSherlockAndHisGirlfriend"
+        }
+    }
+}

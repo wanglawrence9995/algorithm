@@ -1,0 +1,27 @@
+{
+    "name": "Longest Increasing Subsequence Arrays",
+    "group": "HackerRank",
+    "url": "https://www.hackerrank.com/contests/world-codesprint-5/challenges/longest-increasing-subsequence-arrays",
+    "interactive": false,
+    "memoryLimit": 512,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "2\n4 2\n4 3\n",
+            "output": "11\n9\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "LongestIncreasingSubsequenceArrays"
+        }
+    }
+}

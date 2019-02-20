@@ -1,0 +1,22 @@
+{
+    "name": "primes triangle (I)",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/PTRI/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 200,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "PrimesTriangleI"
+        }
+    }
+}

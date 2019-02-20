@@ -1,0 +1,22 @@
+{
+    "name": "Smallest Inverse Euler Totient Function",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/INVPHI/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 20000,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "SmallestInverseEulerTotientFunction"
+        }
+    }
+}

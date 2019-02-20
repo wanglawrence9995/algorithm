@@ -1,0 +1,27 @@
+{
+    "name": "Power Modulo Inverted",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/MOD/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "5 58 33\n2 4 3\n0 0 0\n",
+            "output": "9\nNo Solution\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "PowerModuloInverted"
+        }
+    }
+}

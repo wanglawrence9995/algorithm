@@ -1,0 +1,22 @@
+{
+    "name": "Namit In Trouble",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/NGIRL/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 100,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "NamitInTrouble"
+        }
+    }
+}

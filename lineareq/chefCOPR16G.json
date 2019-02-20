@@ -1,0 +1,27 @@
+{
+    "name": "Get AC in one go",
+    "group": "CodeChef - Practice(Extcontest)",
+    "url": "https://www.codechef.com/problems/COPR16G",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "1 \n4 7\n6 1\n2 4\n",
+            "output": "18\n0\n-1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GetACInOneGo"
+        }
+    }
+}

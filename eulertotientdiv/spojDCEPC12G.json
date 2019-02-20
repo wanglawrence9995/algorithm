@@ -1,0 +1,27 @@
+{
+    "name": "G Force",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/DCEPC12G/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "1\n",
+            "output": "2\n\nOutput:\n1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GForce"
+        }
+    }
+}

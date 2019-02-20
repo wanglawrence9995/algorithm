@@ -1,0 +1,27 @@
+{
+    "name": "GCD Extreme",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/GCDEX/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 237,
+    "tests": [
+        {
+            "input": "10\n100\n200000\n0\n",
+            "output": "67\n13015\n143295493160\n\nTime limit has been changed. Some AC solutions get TLE\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GCDExtreme"
+        }
+    }
+}

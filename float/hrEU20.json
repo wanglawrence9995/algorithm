@@ -1,0 +1,27 @@
+{
+    "name": "Project Euler #20: Factorial digit sum",
+    "group": "HackerRank",
+    "url": "https://www.hackerrank.com/contests/projecteuler/challenges/euler020/problem",
+    "interactive": false,
+    "memoryLimit": 512,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "2\n3\n6\n",
+            "output": "6\n9\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ProjectEuler20FactorialDigitSum"
+        }
+    }
+}
