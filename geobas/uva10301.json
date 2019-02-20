@@ -1,0 +1,27 @@
+{
+    "name": "10301 - Rings and Glue",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1242",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "4\n0.0 0.0 1.0\n-1.5 -1.5 0.5\n1.5 1.5 0.5\n-2.0 2.0 3.5\n3\n3.0 2.0 2.0\n0.0 -0.5 1.0\n0.0 0.0 2.0\n5\n-2.0 0.0 1.0\n1.0 -1.0 1.0\n0.0 1.0 0.5\n2.0 0.0 1.0\n-1.0 1.0 1.0\n-1\n",
+            "output": "The largest component contains 4 rings.\nThe largest component contains 2 rings.\nThe largest component contains 3 rings.\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "RingsAndGlue"
+        }
+    }
+}

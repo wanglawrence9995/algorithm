@@ -1,0 +1,27 @@
+{
+    "name": "Race Time!",
+    "group": "CodeChef - Practice(Extcontest)",
+    "url": "https://www.codechef.com/problems/AMCS03",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "RaceTime"
+        }
+    }
+}

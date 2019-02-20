@@ -1,0 +1,27 @@
+{
+    "name": "12197 - Trick or Treat",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3349",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "2\n1.5 1.5\n3 0\n1\n0 0\n4\n1 4\n4 4\n-3 3\n2 4\n5\n4 7\n-4 0\n7 -6\n-2 4\n8 -5\n0\n",
+            "output": "1.500000000 1.500000000\n0.000000000 0.000000000\n1.000000000 5.000000000\n3.136363636 7.136363636\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TrickOrTreat"
+        }
+    }
+}

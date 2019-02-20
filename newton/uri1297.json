@@ -1,0 +1,27 @@
+{
+    "name": "Environment Protection",
+    "group": "URI Online Judge",
+    "url": "https://www.urionlinejudge.com.br/judge/en/problems/view/1297",
+    "interactive": false,
+    "memoryLimit": 1024,
+    "timeLimit": 6000,
+    "tests": [
+        {
+            "input": "6 9 4 1\n-10 1\n2 0\n-16 1\n2 0\n8 10 14 4\n-1392 864 -216 24 -1\n1312 -864 216 -24 1\n-73 36 -54 36 -9\n17 -4 6 -4 1\n",
+            "output": "4.00000\n5.51389\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "EnvironmentProtection"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+https://cp-algorithms.com/num_methods/ternary_search.html

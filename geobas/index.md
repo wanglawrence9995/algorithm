@@ -1,0 +1,9 @@
+https://cp-algorithms.com/geometry/basic-geometry.html
+https://cp-algorithms.com/geometry/length-of-segments-union.html
+https://cp-algorithms.com/geometry/tangents-to-two-circles.html
+https://cp-algorithms.com/geometry/circle-circle-intersection.html
+https://cp-algorithms.com/geometry/circle-line-intersection.html
+https://cp-algorithms.com/geometry/segments-intersection.html
+https://cp-algorithms.com/geometry/check-segments-intersection.html
+https://cp-algorithms.com/geometry/lines-intersection.html
+https://cp-algorithms.com/geometry/segment-to-line.html

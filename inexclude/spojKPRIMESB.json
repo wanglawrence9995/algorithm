@@ -1,0 +1,27 @@
+{
+    "name": "Almost Prime Numbers Again",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/KPRIMESB/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 500,
+    "tests": [
+        {
+            "input": "2\n1000 3\n2 3 5\n49 3\n2 3 5\n",
+            "output": "Case 1: 100\nCase 2: 1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "AlmostPrimeNumbersAgain"
+        }
+    }
+}

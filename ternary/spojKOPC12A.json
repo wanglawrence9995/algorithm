@@ -1,0 +1,22 @@
+{
+    "name": "K12",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/KOPC12A/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 665,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "K12"
+        }
+    }
+}

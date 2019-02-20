@@ -1,0 +1,27 @@
+{
+    "name": "Closest Triplet",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/CLOSEST/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 37470,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "12.000300000.796\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ClosestTriplet"
+        }
+    }
+}

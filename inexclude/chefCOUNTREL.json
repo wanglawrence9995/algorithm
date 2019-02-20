@@ -1,0 +1,27 @@
+{
+    "name": "Count Relations",
+    "group": "CodeChef - January 2011 Challenge",
+    "url": "https://www.codechef.com/JAN11/problems/COUNTREL/",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 166.667,
+    "tests": [
+        {
+            "input": "1 <= T <= 1000\n1 <= N <= 10^18\n",
+            "output": "Let A={1,2}\nThen B={Phi,{1},{2},{1,2}}\nPhi=Empty Set\nSo R1=Either {({1},{2})} or {({2},{1})}\nand R2=No relation exists\nSo,there is 1 relation of kind R1 and 0 relation of kind R2.\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CountRelations"
+        }
+    }
+}

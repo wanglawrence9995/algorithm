@@ -1,0 +1,27 @@
+{
+    "name": "Intersecting Circles",
+    "group": "SPOJ - Tutorial",
+    "url": "https://www.spoj.com/problems/CIRCINT/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1754,
+    "tests": [
+        {
+            "input": "3\n0 0 2 2 1 1\n0 0 2 2 3 3\n0 0 1000000000 0 600000000 400000000\n",
+            "output": "NO\nYES\nYES\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "IntersectingCircles"
+        }
+    }
+}

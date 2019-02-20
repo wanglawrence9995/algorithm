@@ -1,0 +1,22 @@
+{
+    "name": "Balanced Cow Subsets",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/SUBSET/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 174,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BalancedCowSubsets"
+        }
+    }
+}

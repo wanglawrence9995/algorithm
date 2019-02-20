@@ -1,0 +1,27 @@
+{
+    "name": "Chef and Polygons",
+    "group": "CodeChef - Practice(Medium)",
+    "url": "https://www.codechef.com/problems/CHEFPOLY",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "9 9\n62 73\n-66 -27\n-14 85\n82 19\n-42 42\n-38 85\n-38 44\n-11 -55\n-46 -9\n44 -6\n-98 13\n-3 97\n-61 -34\n-70 17\n-11 -13\n-95 -25\n-52 60\n12 3\n8\n4 9 6 3 1\n5 2 5 7 1 4\n4 2 6 3 4\n5 5 6 1 4 8\n5 2 5 7 1 8\n4 2 6 3 4\n3 2 6 8\n5 9 5 7 4 8\n",
+            "output": "0\n1\n1\n3\n2\n1\n0\n3\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ChefAndPolygons"
+        }
+    }
+}
