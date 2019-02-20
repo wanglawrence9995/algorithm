@@ -1,0 +1,22 @@
+{
+    "name": "Find the Treasure",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/DIGOKEYS/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 112,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "FindTheTreasure"
+        }
+    }
+}

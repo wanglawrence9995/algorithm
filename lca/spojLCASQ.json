@@ -1,0 +1,27 @@
+{
+    "name": "Lowest Common Ancestor",
+    "group": "SPOJ - Tutorial",
+    "url": "https://www.spoj.com/problems/LCASQ/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 12000,
+    "tests": [
+        {
+            "input": "32 1 200 31 21 12 2\n",
+            "output": "012\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "LowestCommonAncestor"
+        }
+    }
+}

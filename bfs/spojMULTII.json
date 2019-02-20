@@ -1,0 +1,27 @@
+{
+    "name": "Yet Another Multiple Problem",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/MULTII/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "2345 3\n7 8 9\n100 1\n0\n",
+            "output": "Case 1: 2345\nCase 2: -1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "YetAnotherMultipleProblem"
+        }
+    }
+}

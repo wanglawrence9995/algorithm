@@ -1,0 +1,22 @@
+{
+    "name": "Ada and Orange Tree",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/ADAORANG/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 2500,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "AdaAndOrangeTree"
+        }
+    }
+}

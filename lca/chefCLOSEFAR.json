@@ -1,0 +1,27 @@
+{
+    "name": "So Close Yet So Far",
+    "group": "CodeChef - Practice(Medium)",
+    "url": "https://www.codechef.com/problems/CLOSEFAR",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 3500,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "SoCloseYetSoFar"
+        }
+    }
+}

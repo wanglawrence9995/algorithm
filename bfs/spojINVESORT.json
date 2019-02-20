@@ -1,0 +1,27 @@
+{
+    "name": "Inversion Sort",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/INVESORT/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 89260,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "102\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "InversionSort"
+        }
+    }
+}

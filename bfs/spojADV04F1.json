@@ -1,0 +1,27 @@
+{
+    "name": "Four Chips (Hard)",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/ADV04F1/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 3289,
+    "tests": [
+        {
+            "input": "2\n1 2 3 4\n1 3 4 6\n",
+            "output": "0\n1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "FourChipsHard"
+        }
+    }
+}

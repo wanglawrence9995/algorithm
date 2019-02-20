@@ -1,0 +1,35 @@
+{
+    "name": "C. Cycle In Maze",
+    "group": "VK Cup 2017 - Qualification 1",
+    "url": "http://codeforces.com/contest/769/problem/C",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 15000,
+    "tests": [
+        {
+            "input": "2 3 2\n.**\nX..\n",
+            "output": "RL\n"
+        },
+        {
+            "input": "5 6 14\n..***.\n*...X.\n..*...\n..*.**\n....*.\n",
+            "output": "DLDDLLLRRRUURU\n"
+        },
+        {
+            "input": "3 3 4\n***\n*X*\n***\n",
+            "output": "IMPOSSIBLE\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CCycleInMaze"
+        }
+    }
+}
