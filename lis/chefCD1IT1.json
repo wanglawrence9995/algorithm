@@ -1,0 +1,31 @@
+{
+    "name": "Median",
+    "group": "CodeChef - Practice(Extcontest)",
+    "url": "https://www.codechef.com/problems/CD1IT1",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        },
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Median"
+        }
+    }
+}

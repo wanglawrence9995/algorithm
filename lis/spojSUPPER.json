@@ -1,0 +1,27 @@
+{
+    "name": "Supernumbers in a permutation",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/SUPPER/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 2250,
+    "tests": [
+        {
+            "input": "5\n2 1 4 5 3\n[and 9 test cases more]\n",
+            "output": "4\n1 2 4 5\n[and 9 test cases more]\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "SupernumbersInAPermutation"
+        }
+    }
+}

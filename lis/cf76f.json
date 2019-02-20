@@ -1,0 +1,27 @@
+{
+    "name": "F. Tourist",
+    "group": "All-Ukrainian School Olympiad in Informatics",
+    "url": "http://codeforces.com/contest/76/problem/F",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 500,
+    "tests": [
+        {
+            "input": "3\n-1 1\n42 7\n40 8\n2\n",
+            "output": "1 2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "FTourist"
+        }
+    }
+}

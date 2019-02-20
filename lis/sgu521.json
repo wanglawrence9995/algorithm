@@ -1,0 +1,31 @@
+{
+    "name": "521. \"North-East\"",
+    "group": "Codeforces - acm.sgu.ru archive",
+    "url": "http://codeforces.com/problemsets/acmsguru/problem/99999/521",
+    "interactive": false,
+    "memoryLimit": 262,
+    "timeLimit": 500,
+    "tests": [
+        {
+            "input": "5\n3 2\n1 1\n5 5\n2 3\n4 4\n",
+            "output": "5 1 2 3 4 5\n3 2 3 5\n"
+        },
+        {
+            "input": "5\n1 1\n10 10\n5 6\n10 1\n6 5\n",
+            "output": "4 1 2 3 5\n2 1 2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "NorthEast"
+        }
+    }
+}
