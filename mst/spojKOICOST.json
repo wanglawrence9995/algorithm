@@ -1,0 +1,27 @@
+{
+    "name": "Cost",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/KOICOST/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 876,
+    "tests": [
+        {
+            "input": "6 71 2 102 3 24 3 56 3 153 5 44 5 32 6 6\n",
+            "output": "256\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Cost"
+        }
+    }
+}
