@@ -1,0 +1,22 @@
+{
+    "name": "Lego",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/LEGO/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 356,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Lego"
+        }
+    }
+}

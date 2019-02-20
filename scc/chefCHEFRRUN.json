@@ -1,0 +1,35 @@
+{
+    "name": "Chef and Round Run",
+    "group": "CodeChef - August Challenge 2016",
+    "url": "https://www.codechef.com/AUG16/problems/CHEFRRUN",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        },
+        {
+            "input": "->\n",
+            "output": "\n"
+        },
+        {
+            "input": "->\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ChefAndRoundRun"
+        }
+    }
+}

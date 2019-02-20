@@ -1,0 +1,31 @@
+{
+    "name": "B. Making Genome in Berland",
+    "group": "VK Cup 2016 - Qualification Round 2",
+    "url": "http://codeforces.com/contest/638/problem/B",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "3\nbcd\nab\ncdef\n",
+            "output": "abcdef\n"
+        },
+        {
+            "input": "4\nx\ny\nz\nw\n",
+            "output": "xyzw\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BMakingGenomeInBerland"
+        }
+    }
+}

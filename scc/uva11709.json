@@ -1,0 +1,27 @@
+{
+    "name": "11709 - Trust groups",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2756",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 5000,
+    "tests": [
+        {
+            "input": "3 2\nMcBride, John\nSmith, Peter\nBrown, Anna\nBrown, Anna\nSmith, Peter\nSmith, Peter\nBrown, Anna\n3 2\nMcBride, John\nSmith, Peter\nBrown, Anna\nBrown, Anna\nSmith, Peter\nMcBride, John\nSmith, Peter\n0 0\n",
+            "output": "2\n3\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TrustGroups"
+        }
+    }
+}

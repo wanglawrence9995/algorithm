@@ -1,0 +1,31 @@
+{
+    "name": "C. From Y to Y",
+    "group": "Codeforces Round #431 (Div. 2)",
+    "url": "http://codeforces.com/contest/849/problem/C",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "12\n",
+            "output": "abababab\n"
+        },
+        {
+            "input": "3\n",
+            "output": "codeforces\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CFromYToY"
+        }
+    }
+}

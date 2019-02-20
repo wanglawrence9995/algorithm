@@ -1,0 +1,27 @@
+{
+    "name": "657 - The die is cast",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=598",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "30 15\n..............................\n..............................\n...............*..............\n...*****......****............\n...*X***.....**X***...........\n...*****....***X**............\n...***X*.....****.............\n...*****.......*..............\n..............................\n........***........******.....\n.......**X****.....*X**X*.....\n......*******......******.....\n.....****X**.......*X**X*.....\n........***........******.....\n..............................\n0 0\n",
+            "output": "Throw 1\n1 2 2 4\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TheDieIsCast"
+        }
+    }
+}

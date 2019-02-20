@@ -1,0 +1,35 @@
+{
+    "name": "D. Labelling Cities",
+    "group": "Tinkoff Challenge - Final Round (Codeforces Round #414, rated, Div. 1 + Div. 2)",
+    "url": "http://codeforces.com/contest/794/problem/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "4 4\n1 2\n1 3\n1 4\n3 4\n",
+            "output": "YES\n2 3 1 1 \n"
+        },
+        {
+            "input": "5 10\n1 2\n1 3\n1 4\n1 5\n2 3\n2 4\n2 5\n3 4\n3 5\n5 4\n",
+            "output": "YES\n1 1 1 1 1 \n"
+        },
+        {
+            "input": "4 3\n1 2\n1 3\n1 4\n",
+            "output": "NO\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DLabellingCities"
+        }
+    }
+}

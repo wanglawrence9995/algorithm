@@ -1,0 +1,27 @@
+{
+    "name": "Eagle and Dogs",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/EAGLE1/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "141 2 33 2 43 4 5\n",
+            "output": "12 9 7 12\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "EagleAndDogs"
+        }
+    }
+}

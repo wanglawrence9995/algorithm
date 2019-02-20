@@ -1,0 +1,27 @@
+{
+    "name": "247 - Calling Circles",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=183",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "5 6\nBen Alexander\nAlexander Dolly\nDolly Ben\nDolly Benedict\nBenedict Dolly\nAlexander Aaron\n14 34\nJohn Aaron\nAaron Benedict\nBetsy John\nBetsy Ringo\nRingo Dolly\nBenedict Paul\nJohn Betsy\nJohn Aaron\nBenedict George\nDolly Ringo\nPaul Martha\nGeorge Ben\nAlexander George\nBetsy Ringo\nAlexander Stephen\nMartha Stephen\nBenedict Alexander\nStephen Paul\nBetsy Ringo\nQuincy Martha\nBen Patrick\nBetsy Ringo\nPatrick Stephen\nPaul Alexander\nPatrick Ben\nStephen Quincy\nRingo Betsy\nBetsy Benedict\nBetsy Benedict\nBetsy Benedict\nBetsy Benedict\nBetsy Benedict\nBetsy Benedict\nQuincy Martha\n0 0\n",
+            "output": "Calling circles for data set 1:\nBen, Alexander, Dolly, Benedict\nAaron\nCalling circles for data set 2:\nJohn, Betsy, Ringo, Dolly\nAaron\nBenedict\nPaul, George, Martha, Ben, Alexander, Stephen, Quincy, Patrick\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CallingCircles"
+        }
+    }
+}

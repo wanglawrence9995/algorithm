@@ -1,0 +1,27 @@
+{
+    "name": "ABC Path",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/ABCPATH/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 458,
+    "tests": [
+        {
+            "input": "4 3\nABE\nCFG\nBDH\nABC\n0 0\n",
+            "output": "Case 1: 4\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ABCPath"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Sheep",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/KOZE/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 473,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "3 1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Sheep"
+        }
+    }
+}

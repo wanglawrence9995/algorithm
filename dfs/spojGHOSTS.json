@@ -1,0 +1,27 @@
+{
+    "name": "Ghosts having fun",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/GHOSTS/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 728,
+    "tests": [
+        {
+            "input": "452 44 33 21 23 1\n",
+            "output": "3 23 10 0\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GhostsHavingFun"
+        }
+    }
+}

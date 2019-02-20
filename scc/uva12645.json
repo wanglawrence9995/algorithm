@@ -1,0 +1,27 @@
+{
+    "name": "12645 - Water Supply",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4393",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "4 5\n0 1\n1 2\n2 1\n0 4\n3 4\n4 2\n3 1\n2 1\n",
+            "output": "1\n3\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "WaterSupply"
+        }
+    }
+}

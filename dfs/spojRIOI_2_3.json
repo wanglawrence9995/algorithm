@@ -1,0 +1,22 @@
+{
+    "name": "Path of the righteous man",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/RIOI_2_3/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 481,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "PathOfTheRighteousMan"
+        }
+    }
+}

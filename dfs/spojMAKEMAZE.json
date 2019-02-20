@@ -1,0 +1,22 @@
+{
+    "name": "VALIDATE THE MAZE",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/MAKEMAZE/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 824,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "VALIDATETHEMAZE"
+        }
+    }
+}
