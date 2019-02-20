@@ -1,0 +1,27 @@
+{
+    "name": "12519 - The Farnsworth Parabox",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3964",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "2 1\n2 1 1\n3 3\n1 2 3\n1 3 2\n2 3 4\n4 4\n1 2 2\n3 2 2\n3 4 2\n1 4 2\n0 0\n",
+            "output": "N\nY\nN\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TheFarnsworthParabox"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Tree game ",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/CT23E/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 340,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TreeGame"
+        }
+    }
+}

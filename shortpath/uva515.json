@@ -1,0 +1,27 @@
+{
+    "name": "515 - King",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=456",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "4 2\n1 2 gt 0\n2 2 lt 2\n1 2\n1 0 gt 0\n1 0 lt 0\n0\n",
+            "output": "lamentable kingdom\nsuccessful conspiracy\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "King"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Possible Friends",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/SOCIALNE/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 262,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "PossibleFriends"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "10793 - The Orc Attack",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1734",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "2\n7 11\n1 7 2\n2 7 2\n3 7 2\n5 7 2\n6 7 1\n1 6 1\n2 6 1\n3 6 1\n4 6 1\n5 6 1\n7 6 1\n6 1\n1 2 3\n",
+            "output": "Map 1: 1\nMap 2: -1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TheOrcAttack"
+        }
+    }
+}

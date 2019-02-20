@@ -1,0 +1,27 @@
+{
+    "name": "Count Components",
+    "group": "SPOJ - Problems",
+    "url": "https://www.spoj.com/problems/CCOMPS/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "5 2\n1 2\n3 4\n",
+            "output": "3\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CountComponents"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "B. String Problem",
+    "group": "Codeforces Beta Round #33 (Codeforces format)",
+    "url": "http://codeforces.com/contest/33/problem/B",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "uayd\nuxxd\n3\na x 8\nx y 13\nd c 3\n",
+            "output": "21\nuxyd\n"
+        },
+        {
+            "input": "a\nb\n3\na b 2\na b 3\nb a 5\n",
+            "output": "2\nb\n"
+        },
+        {
+            "input": "abc\nab\n6\na b 4\na b 7\nb a 8\nc b 11\nc a 3\na c 0\n",
+            "output": "-1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BStringProblem"
+        }
+    }
+}

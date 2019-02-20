@@ -1,0 +1,27 @@
+{
+    "name": "10099 - The Tourist Guide",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1040",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "7 10\n1 2 30\n1 3 15\n1 4 10\n2 4 25\n2 5 60\n3 4 40\n3 6 20\n4 7 35\n5 7 20\n6 7 30\n1 7 99\n0 0\n",
+            "output": "Scenario #1\nMinimum Number of Trips = 5\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TheTouristGuide"
+        }
+    }
+}

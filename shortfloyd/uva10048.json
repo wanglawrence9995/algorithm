@@ -1,0 +1,27 @@
+{
+    "name": "10048 - Audiophobia",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=989",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "7 9 3\n1 2 50\n1 3 60\n2 4 120\n2 5 90\n3 6 50\n4 6 80\n4 7 70\n5 7 40\n6 7 140\n1 7\n2 6\n6 2\n7 6 3\n1 2 50\n1 3 60\n2 4 120\n3 6 50\n4 6 80\n5 7 40\n7 5\n1 7\n2 4\n0 0 0\n",
+            "output": "Case #1\n80\n60\n60\nCase #2\n40\nno path\n80\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Audiophobia"
+        }
+    }
+}

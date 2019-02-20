@@ -1,0 +1,27 @@
+{
+    "name": "1233 - USHER",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3674",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "1\n10 2\n2 1 2\n2 6 0 4 2\n1 5 0\n0\n",
+            "output": "2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "USHER"
+        }
+    }
+}

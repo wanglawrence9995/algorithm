@@ -1,0 +1,22 @@
+{
+    "name": "King Graffs Defense",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/GRAFFDEF/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 2000,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "KingGraffsDefense"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "1198 - The Geodetic Set Problem",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3639",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "5\n2 3\n1 3 4\n1 2 5\n2 5\n3 4\n6\n1 2 3 4 5\n1 2 5\n2 4\n1 3 4\n1 4 5\n3 4 5\n",
+            "output": "yes\nyes\nno\nyes\nyes\nno\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TheGeodeticSetProblem"
+        }
+    }
+}

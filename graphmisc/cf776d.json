@@ -1,0 +1,35 @@
+{
+    "name": "D. The Door Problem",
+    "group": "ICM Technex 2017 and Codeforces Round #400 (Div. 1 + Div. 2, combined)",
+    "url": "http://codeforces.com/contest/776/problem/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "3 3\n1 0 1\n2 1 3\n2 1 2\n2 2 3\n",
+            "output": "NO\n"
+        },
+        {
+            "input": "3 3\n1 0 1\n3 1 2 3\n1 2\n2 1 3\n",
+            "output": "YES\n"
+        },
+        {
+            "input": "3 3\n1 0 1\n3 1 2 3\n2 1 2\n1 3\n",
+            "output": "NO\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DTheDoorProblem"
+        }
+    }
+}

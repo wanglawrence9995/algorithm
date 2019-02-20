@@ -1,0 +1,22 @@
+{
+    "name": "Topological Sorting",
+    "group": "SPOJ - Tutorial",
+    "url": "https://www.spoj.com/problems/TOPOSORT/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 500,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TopologicalSorting"
+        }
+    }
+}

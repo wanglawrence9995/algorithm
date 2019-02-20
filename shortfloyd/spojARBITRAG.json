@@ -1,0 +1,27 @@
+{
+    "name": "Arbitrage",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/ARBITRAG/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 242,
+    "tests": [
+        {
+            "input": "3\nUSDollar\nBritishPound\nFrenchFranc\n3\nUSDollar 0.5 BritishPound\nBritishPound 10.0 FrenchFranc\nFrenchFranc 0.21 USDollar\n\n3\nUSDollar\nBritishPound\nFrenchFranc\n6\nUSDollar 0.5 BritishPound\nUSDollar 4.9 FrenchFranc\nBritishPound 10.0 FrenchFranc\nBritishPound 1.99 USDollar\nFrenchFranc 0.09 BritishPound\nFrenchFranc 0.19 USDollar\n\n0\n",
+            "output": "Case 1: Yes\nCase 2: No\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Arbitrage"
+        }
+    }
+}
