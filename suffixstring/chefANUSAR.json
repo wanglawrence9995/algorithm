@@ -1,0 +1,27 @@
+{
+    "name": "Substrings and Repetitions",
+    "group": "CodeChef - Practice(Hard)",
+    "url": "https://www.codechef.com/problems/ANUSAR",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "1\naaeddf\n4\n1\n2\n3\n4\n",
+            "output": "21\n4\n0\n0\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "SubstringsAndRepetitions"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "10526 - Intellectual Property",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1467",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "6\nBEGIN TDP CODEBASE\nthe quick brown fox\njumps over the lazy dog.\nso there!\nEND TDP CODEBASE\nBEGIN JCN CODEBASE\nnow is the time for all\ngood men to come to the aid\nof the party.\nso there!\nEND JCN CODEBASE\n100\nBEGIN TDP CODEBASE\nxyzzy\nEND TDP CODEBASE\nBEGIN JCN CODEBASE\nxyzzabczzyy\nEND JCN CODEBASE\n0\n",
+            "output": "CASE 1\nINFRINGING SEGMENT 1 LENGTH 12 POSITION 64\n.\nso there!\nINFRINGING SEGMENT 2 LENGTH 5 POSITION 6\nthe\nINFRINGING SEGMENT 3 LENGTH 5 POSITION 42\no the\nINFRINGING SEGMENT 4 LENGTH 5 POSITION 43\nthe\nINFRINGING SEGMENT 5 LENGTH 5 POSITION 54\nthe\nINFRINGING SEGMENT 6 LENGTH 3 POSITION 15\nfo\nCASE 2\nINFRINGING SEGMENT 1 LENGTH 4 POSITION 0\nxyzz\nINFRINGING SEGMENT 2 LENGTH 3 POSITION 7\nzzy\nINFRINGING SEGMENT 3 LENGTH 2 POSITION 10\ny\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "IntellectualProperty"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Suffix Array",
+    "group": "SPOJ - Partial",
+    "url": "https://www.spoj.com/problems/SARRAY/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 100,
+    "tests": [
+        {
+            "input": "abracadabra0AbRa4Cad14abra\n",
+            "output": "11\n20\n16\n21\n12\n17\n14\n25\n10\n15\n22\n7\n0\n3\n18\n5\n13\n23\n8\n1\n4\n19\n6\n24\n9\n2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "SuffixArray"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "4513 - Stammering Aliens",
+    "group": "ICPC Live Archive",
+    "url": "https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2514",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "3\nbaaaababababbababbab\n11\nbaaaababababbababbab\n3\ncccccc\n0\n",
+            "output": "5 12\nnone\n4 2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "StammeringAliens"
+        }
+    }
+}

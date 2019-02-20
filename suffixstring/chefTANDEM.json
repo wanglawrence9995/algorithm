@@ -1,0 +1,27 @@
+{
+    "name": "Tandem",
+    "group": "CodeChef - Practice(C)",
+    "url": "https://www.codechef.com/problems/TANDEM",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "abaaabaaabaaabbbb\n",
+            "output": "5 3\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Tandem"
+        }
+    }
+}

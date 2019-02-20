@@ -1,0 +1,1 @@
+https://cp-algorithms.com/string/suffix-array.html#toc-tgt-11

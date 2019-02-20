@@ -1,0 +1,27 @@
+{
+    "name": "12338 - Anti-Rhyme Pairs",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3760",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 5000,
+    "tests": [
+        {
+            "input": "2\n5\ndaffodilpacm\ndaffodiliupc\ndistancevector\ndistancefinder\ndistinctsubsequence\n4\n1 2\n1 5\n3 4\n4 5\n2\nacm\nicpc\n2\n1 2\n2 2\n",
+            "output": "Case 1:\n8\n1\n8\n4\nCase 2:\n0\n4\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "AntiRhymePairs"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "6856 - Circle of digits",
+    "group": "ICPC Live Archive",
+    "url": "https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=4868",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "4 2\n4321\n7 3\n7654321\n5 5\n12321\n",
+            "output": "32\n176\n3\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CircleOfDigits"
+        }
+    }
+}

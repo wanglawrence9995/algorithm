@@ -1,0 +1,31 @@
+{
+    "name": "E. Little Elephant and Strings",
+    "group": "Codeforces Round #129 (Div. 1)",
+    "url": "http://codeforces.com/problemset/problem/204/E",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "3 1\nabc\na\nab\n",
+            "output": "6 1 3 \n"
+        },
+        {
+            "input": "7 4\nrubik\nfurik\nabab\nbaba\naaabbbababa\nabababababa\nzero\n",
+            "output": "1 0 9 9 21 30 0 \n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ELittleElephantAndStrings"
+        }
+    }
+}

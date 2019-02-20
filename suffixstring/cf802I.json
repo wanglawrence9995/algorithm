@@ -1,0 +1,27 @@
+{
+    "name": "I. Fake News (hard)",
+    "group": "Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",
+    "url": "http://codeforces.com/contest/802/problem/I",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 5000,
+    "tests": [
+        {
+            "input": "4\naa\nabcd\nccc\nabcc\n",
+            "output": "5\n10\n14\n12\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "IFakeNewsHard"
+        }
+    }
+}

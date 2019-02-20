@@ -1,0 +1,27 @@
+{
+    "name": "E. Martian Strings",
+    "group": "Codeforces Round #106 (Div. 2)",
+    "url": "http://codeforces.com/problemset/problem/149/E",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "ABCBABA\n2\nBAAB\nABBA\n",
+            "output": "1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "EMartianStrings"
+        }
+    }
+}

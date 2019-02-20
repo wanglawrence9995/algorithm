@@ -1,0 +1,27 @@
+{
+    "name": "11512 - GATTACA",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2507",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 7000,
+    "tests": [
+        {
+            "input": "6\nGATTACA\nGAGAGAG\nGATTACAGATTACA\nTGAC\nTGTAC\nTTGGAACC\n",
+            "output": "A 3\nGAGAG 2\nGATTACA 2\nNo repetitions found!\nT 2\nA 2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "GATTACA"
+        }
+    }
+}

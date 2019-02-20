@@ -1,0 +1,27 @@
+{
+    "name": "Longest Common Substring",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/LCS/en/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 294,
+    "tests": [
+        {
+            "input": "alsdfkjfjkdsal\nfdjskalajfkdsla\n",
+            "output": "3\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "LongestCommonSubstring"
+        }
+    }
+}

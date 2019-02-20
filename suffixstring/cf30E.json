@@ -1,0 +1,35 @@
+{
+    "name": "E. Tricky and Clever Password",
+    "group": "Codeforces Beta Round #30 (Codeforces format)",
+    "url": "http://codeforces.com/contest/30/problem/E",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "abacaba\n",
+            "output": "1\n1 7\n"
+        },
+        {
+            "input": "axbya\n",
+            "output": "3\n1 1\n2 1\n5 1\n"
+        },
+        {
+            "input": "xabyczba\n",
+            "output": "3\n2 2\n4 1\n7 2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ETrickyAndCleverPassword"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "1227 - The longest constant gene",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3668",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 20000,
+    "tests": [
+        {
+            "input": "2\n2\nACGGGCGTCGTCCCCGTCGTCGTATC\nCTCGTCGTCCCCGTCGTCGTGTC\n3\nACGACGGCTGCGGTAACCC\nTTACGGCTGCGGTCCCCTT\nCCCCCCGTTTACGGCTGCGGTGG\n",
+            "output": "18\n11\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TheLongestConstantGene"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Longest Common Substring II ",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/LCS2/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 236,
+    "tests": [
+        {
+            "input": "alsdfkjfjkdsal\nfdjskalajfkdsla\naaaajfaaaa\n",
+            "output": "2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "LongestCommonSubstringII"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "7502 - Suffixes and Palindromes",
+    "group": "ICPC Live Archive",
+    "url": "https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=720&page=show_problem&problem=5524",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 5000,
+    "tests": [
+        {
+            "input": "2\n3\n2 0 1\n1 0 3 0 1\n3\n2 0 1\n1 2 3 2 1\n",
+            "output": "Case #1: aba\nCase #2: Wrong calculation!\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "SuffixesAndPalindromes"
+        }
+    }
+}
