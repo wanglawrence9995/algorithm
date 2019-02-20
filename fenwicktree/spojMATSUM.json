@@ -1,0 +1,27 @@
+{
+    "name": "Matrix Summation",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/MATSUM/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1029,
+    "tests": [
+        {
+            "input": "1\n4\nSET 0 0 1\nSUM 0 0 3 3\nSET 2 2 12\nSUM 2 2 2 2\nSUM 2 2 3 3\nSUM 0 0 2 2\nEND\n",
+            "output": "1\n12\n12\n13\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "MatrixSummation"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Stacking Pancakes",
+    "group": "CodeChef - April Challenge 2012",
+    "url": "https://www.codechef.com/APRIL12/problems/PANSTACK/",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 206.897,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "StackingPancakes"
+        }
+    }
+}

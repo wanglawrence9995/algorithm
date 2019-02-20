@@ -1,0 +1,27 @@
+{
+    "name": "Crayon",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/CRAYON/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "6\nD 1 3\nD 2 4\nQ 2 3\nD 2 4\nC 2\nQ 2 3\n",
+            "output": "2\n2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Crayon"
+        }
+    }
+}

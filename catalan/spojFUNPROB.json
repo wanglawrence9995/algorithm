@@ -1,0 +1,27 @@
+{
+    "name": "Yanu in Movie theatre",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/FUNPROB/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 506,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "YanuInMovieTheatre"
+        }
+    }
+}

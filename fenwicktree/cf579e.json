@@ -1,0 +1,27 @@
+{
+    "name": "C. Subsequences",
+    "group": "Testing Round #12",
+    "url": "http://codeforces.com/contest/597/problem/C",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "5 2\n1\n2\n3\n5\n4\n",
+            "output": "7\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CSubsequences"
+        }
+    }
+}

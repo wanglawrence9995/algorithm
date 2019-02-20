@@ -1,0 +1,27 @@
+{
+    "name": "XOR Maximization",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/XMAX/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 281,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "XORMaximization"
+        }
+    }
+}

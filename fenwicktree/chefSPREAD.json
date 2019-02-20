@@ -1,0 +1,22 @@
+{
+    "name": "Gravel",
+    "group": "CodeChef - Practice(Easy)",
+    "url": "https://www.codechef.com/problems/SPREAD",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 268.72200000000004,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "Gravel"
+        }
+    }
+}

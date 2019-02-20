@@ -1,0 +1,27 @@
+{
+    "name": "Yodaness Level",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/YODANESS/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 934,
+    "tests": [
+        {
+            "input": "2\n6\nin the force strong you are\nyou are strong in the force\n6\nor i will help you not\nor i will not help you\n",
+            "output": "11\n2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "YodanessLevel"
+        }
+    }
+}

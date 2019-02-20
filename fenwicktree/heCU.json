@@ -1,0 +1,27 @@
+{
+    "name": "Counting In Byteland",
+    "group": "HackerEarth - Data Structures - Advanced Data Structures - Fenwick (Binary Indexed) Trees",
+    "url": "https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/counting-in-byteland/",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "10 6\n1 0 0 6 6\n1 9 9 9 10\n1 8 5 9 5\n2 3 4 5 9 10 9\n1 6 6 1 23\n2 0 0 0 8 9 10\n",
+            "output": "6\n10\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CountingInByteland"
+        }
+    }
+}

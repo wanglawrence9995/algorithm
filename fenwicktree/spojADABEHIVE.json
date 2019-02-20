@@ -1,0 +1,22 @@
+{
+    "name": "Ada and Behives",
+    "group": "SPOJ - Basics",
+    "url": "https://www.spoj.com/problems/ADABEHIVE/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 2000,
+    "tests": [],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "AdaAndBehives"
+        }
+    }
+}

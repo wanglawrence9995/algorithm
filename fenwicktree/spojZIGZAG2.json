@@ -1,0 +1,27 @@
+{
+    "name": "Zig when you zag",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/ZIGZAG2/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "2\n5 1 2 5 4 3\n5 4 1 2 5 3\n3 1 2 1\n2 1 1\n",
+            "output": "3\n2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ZigWhenYouZag"
+        }
+    }
+}

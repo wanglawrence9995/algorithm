@@ -1,0 +1,27 @@
+{
+    "name": "Tulip And Numbers",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/TULIPNUM/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 200,
+    "tests": [
+        {
+            "input": "2\n\n5 3\n1 2 2 4 5\n1 2\n1 5\n4 5\n\n3 1\n1 1 1\n1 3\n",
+            "output": "Case 1:\n2\n4\n2\nCase 2:\n1\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "TulipAndNumbers"
+        }
+    }
+}

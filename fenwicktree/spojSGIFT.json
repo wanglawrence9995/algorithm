@@ -1,0 +1,27 @@
+{
+    "name": "Sabbir and gifts",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/SGIFT/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 800,
+    "tests": [
+        {
+            "input": "71 3 2 1 5 2 241 21 53 54 5\n",
+            "output": "81685NOTE: for first query sabbir will buy all the gifts of prices 1 , 2 , 1 , 2, 2 . so, sum is 8for second query sabbir will buy all the gifts . so the sum is 16\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "SabbirAndGifts"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "The Permutation Game Again",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/TPGA/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 159,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "168\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ThePermutationGameAgain"
+        }
+    }
+}

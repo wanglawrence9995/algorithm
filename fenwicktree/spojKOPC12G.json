@@ -1,0 +1,27 @@
+{
+    "name": "K12-Bored of Suffixes and Prefixes",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/KOPC12G/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 690,
+    "tests": [
+        {
+            "input": "1\n4 3\nABCD\nABCD\nABCD\nABCD\n1 0 0 3 3 \n0 0 2 PQRS\n1 0 2 3 3\n",
+            "output": "40\n58\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "K12BoredOfSuffixesAndPrefixes"
+        }
+    }
+}
