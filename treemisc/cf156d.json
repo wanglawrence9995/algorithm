@@ -1,0 +1,35 @@
+{
+    "name": "D. Clues",
+    "group": "Codeforces Round #110 (Div. 1)",
+    "url": "http://codeforces.com/contest/156/problem/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "2 0 1000000000\n",
+            "output": "1\n"
+        },
+        {
+            "input": "3 0 100\n",
+            "output": "3\n"
+        },
+        {
+            "input": "4 1 1000000000\n1 4\n",
+            "output": "8\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DClues"
+        }
+    }
+}

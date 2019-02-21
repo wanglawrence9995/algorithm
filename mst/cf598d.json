@@ -1,0 +1,31 @@
+{
+    "name": "D. Igor In the Museum",
+    "group": "Educational Codeforces Round 1",
+    "url": "http://codeforces.com/problemset/problem/598/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "5 6 3\n******\n*..*.*\n******\n*....*\n******\n2 2\n2 5\n4 3\n",
+            "output": "6\n4\n10\n"
+        },
+        {
+            "input": "4 4 1\n****\n*..*\n*.**\n****\n3 2\n",
+            "output": "8\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DIgorInTheMuseum"
+        }
+    }
+}

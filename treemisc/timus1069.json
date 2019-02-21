@@ -1,0 +1,27 @@
+{
+    "name": "1069. Prufer Code",
+    "group": "Timus - Ural State Univerisity Personal Contest Online February'2001 Students Session",
+    "url": "http://acm.timus.ru/problem.aspx?space=1&num=1069",
+    "interactive": false,
+    "memoryLimit": 8,
+    "timeLimit": 250,
+    "tests": [
+        {
+            "input": "2 1 6 2 6\n",
+            "output": "1: 4 6\n2: 3 5 6\n3: 2\n4: 1\n5: 2\n6: 1 2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "PruferCode"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "1235 - Anti Brute Force Lock",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3676",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "4\n2 1155 2211\n3 1111 1155 5511\n3 1234 5678 9090\n4 2145 0213 9113 8113\n",
+            "output": "16\n20\n26\n17\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "AntiBruteForceLock"
+        }
+    }
+}

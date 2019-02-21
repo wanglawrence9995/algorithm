@@ -1,0 +1,27 @@
+{
+    "name": "Fullmetal Alchemist",
+    "group": "CodeChef - International Coding League, BITS Pilani",
+    "url": "https://www.codechef.com/ICL2016/problems/ICL16A",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1500,
+    "tests": [
+        {
+            "input": "3 3\nabc\nelm\nxet\n",
+            "output": "19\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "FullmetalAlchemist"
+        }
+    }
+}

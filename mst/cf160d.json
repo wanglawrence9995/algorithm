@@ -1,0 +1,35 @@
+{
+    "name": "D. Edges in MST",
+    "group": "Codeforces Round #111 (Div. 2)",
+    "url": "http://codeforces.com/contest/160/problem/D",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "4 5\n1 2 101\n1 3 100\n2 3 2\n2 4 2\n3 4 1\n",
+            "output": "none\nany\nat least one\nat least one\nany\n"
+        },
+        {
+            "input": "3 3\n1 2 1\n2 3 1\n1 3 2\n",
+            "output": "any\nany\nnone\n"
+        },
+        {
+            "input": "3 3\n1 2 1\n2 3 1\n1 3 1\n",
+            "output": "at least one\nat least one\nat least one\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "DEdgesInMST"
+        }
+    }
+}

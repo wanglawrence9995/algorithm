@@ -1,0 +1,27 @@
+{
+    "name": "Bytelandian Blingors Network",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/BLINNET/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "2\n\n4\ngdansk\n2\n2 1\n3 3\nbydgoszcz\n3\n1 1\n3 1\n4 4\ntorun\n3\n1 3\n2 1\n4 1\nwarszawa\n2\n2 4\n3 1\n\n3\nixowo\n2\n2 1\n3 3\niyekowo\n2\n1 1\n3 7\nzetowo\n2\n1 3 \n2 7\n",
+            "output": "3\n4\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BytelandianBlingorsNetwork"
+        }
+    }
+}

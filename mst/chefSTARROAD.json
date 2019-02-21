@@ -1,0 +1,35 @@
+{
+    "name": "Roads in Stars",
+    "group": "CodeChef - Practice(Hard)",
+    "url": "https://www.codechef.com/problems/STARROAD",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        },
+        {
+            "input": "\n",
+            "output": "\n"
+        },
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "RoadsInStars"
+        }
+    }
+}

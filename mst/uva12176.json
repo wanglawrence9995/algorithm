@@ -1,0 +1,27 @@
+{
+    "name": "12176 - Bring Your Own Horse",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3328",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "2\n4 4\n1 2 100\n2 3 100\n3 4 100\n4 1 200\n1\n1 4\n6 9\n2 4 5\n5 1 7\n3 6 6\n3 1 4\n2 3 2\n1 2 1\n6 5 42\n4 5 3\n4 6 5\n4\n1 3\n3 4\n5 4\n6 1\n",
+            "output": "Case 1\n100\nCase 2\n2\n5\n3\n5\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BringYourOwnHorse"
+        }
+    }
+}

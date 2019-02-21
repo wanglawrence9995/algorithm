@@ -1,0 +1,27 @@
+{
+    "name": "10600 - ACM Contest and Blackout",
+    "group": "UVa Online Judge",
+    "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1541",
+    "interactive": false,
+    "memoryLimit": 32,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "2\n5 8\n1 3 75\n3 4 51\n2 4 19\n3 2 95\n2 5 42\n5 4 31\n1 2 9\n3 5 66\n9 14\n1 2 4\n1 8 8\n2 8 11\n3 2 8\n8 9 7\n8 7 1\n7 9 6\n9 3 2\n3 4 7\n3 6 4\n7 6 2\n4 6 14\n4 5 9\n5 6 10\n",
+            "output": "110 121\n37 37\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "ACMContestAndBlackout"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "BMW",
+    "group": "SPOJ - Classical",
+    "url": "https://www.spoj.com/problems/MARYBMW/",
+    "interactive": false,
+    "memoryLimit": 1536,
+    "timeLimit": 500,
+    "tests": [
+        {
+            "input": "14 51 2 803 1 202 3 604 3 3002 4 90\n",
+            "output": "80\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BMW"
+        }
+    }
+}
