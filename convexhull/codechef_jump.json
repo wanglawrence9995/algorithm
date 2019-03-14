@@ -1,0 +1,27 @@
+{
+    "name": "Jump mission",
+    "group": "CodeChef - October Challenge 2015",
+    "url": "https://www.codechef.com/OCT15/problems/JUMP/",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 8000,
+    "tests": [
+        {
+            "input": "\n",
+            "output": "\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "JumpMission"
+        }
+    }
+}

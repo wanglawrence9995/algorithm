@@ -1,0 +1,31 @@
+{
+    "name": "F. Escape Through Leaf",
+    "group": "ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)",
+    "url": "http://codeforces.com/contest/932/problem/F",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "3\n2 10 -1\n7 -7 5\n2 3\n2 1\n",
+            "output": "10 50 0 \n"
+        },
+        {
+            "input": "4\n5 -10 5 7\n-8 -80 -3 -10\n2 1\n2 4\n1 3\n",
+            "output": "-300 100 0 0 \n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "FEscapeThroughLeaf"
+        }
+    }
+}

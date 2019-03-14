@@ -1,0 +1,27 @@
+{
+    "name": "Weasel finds Staircase",
+    "group": "CodeChef - September Challenge 2017",
+    "url": "https://www.codechef.com/SEPT17/problems/WEASELSC",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 4000,
+    "tests": [
+        {
+            "input": "4\n5 2\n1 2 3 4 5\n5 3\n9 8 7 6 4\n5 1\n8 7 5 7 8\n4 10\n0 1 1 0\n",
+            "output": "13\n33\n29\n2\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "WeaselFindsStaircase"
+        }
+    }
+}

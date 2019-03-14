@@ -1,0 +1,27 @@
+{
+    "name": "Covered Walkway",
+    "group": "Kattis Archive",
+    "url": "https://open.kattis.com/problems/coveredwalkway",
+    "interactive": false,
+    "memoryLimit": 1024,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "10 5000\n1\n23\n45\n67\n101\n124\n560\n789\n990\n1019\n",
+            "output": "30726\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CoveredWalkway"
+        }
+    }
+}

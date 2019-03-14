@@ -1,0 +1,27 @@
+{
+    "name": "Cyclist Race",
+    "group": "CodeChef - January Long Challenge 2016",
+    "url": "https://www.codechef.com/JAN16/problems/CYCLRACE",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "5 14\n1 1 1 2\n1 1 2 5\n1 2 3 4\n1 2 4 7\n2 3\n2 4\n1 5 5 4\n2 5\n2 6\n1 7 5 8\n2 7\n2 8\n2 9\n2 10\n",
+            "output": "10\n15\n21\n28\n35\n42\n49\n56\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "CyclistRace"
+        }
+    }
+}

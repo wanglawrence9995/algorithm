@@ -1,0 +1,31 @@
+{
+    "name": "Avoiding Airports",
+    "group": "Kattis Archive",
+    "url": "https://open.kattis.com/problems/avoidingairports",
+    "interactive": false,
+    "memoryLimit": 1024,
+    "timeLimit": 3000,
+    "tests": [
+        {
+            "input": "5 8\n1 2 1 10\n2 4 11 16\n2 1 9 12\n3 5 28 100\n1 2 3 8\n4 3 20 21\n1 3 13 27\n3 5 23 24\n",
+            "output": "12\n"
+        },
+        {
+            "input": "3 5\n1 1 10 20\n1 2 30 40\n1 2 50 60\n1 2 70 80\n2 3 90 95\n",
+            "output": "1900\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "AvoidingAirports"
+        }
+    }
+}

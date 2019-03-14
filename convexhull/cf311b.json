@@ -1,0 +1,27 @@
+{
+    "name": "B. Cats Transport",
+    "group": "Codeforces Round #185 (Div. 1)",
+    "url": "http://codeforces.com/contest/311/problem/B",
+    "interactive": false,
+    "memoryLimit": 256,
+    "timeLimit": 2000,
+    "tests": [
+        {
+            "input": "4 6 2\n1 3 5\n1 0\n2 1\n4 9\n1 10\n2 10\n3 12\n",
+            "output": "3\n"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "BCatsTransport"
+        }
+    }
+}
